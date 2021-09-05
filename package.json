@@ -1,0 +1,19 @@
+{
+  "name": "astro-example-i18next",
+  "version": "1.0.0",
+  "description": "An opinionated approach to translation with Astro and i18next",
+  "main": "index.js",
+  "scripts": {
+    "start": "astro dev",
+    "build": "astro build",
+    "extract-translations": "i18next"
+  },
+  "author": "me@tylergaw.com",
+  "license": "ISC",
+  "devDependencies": {
+    "astro": "0.20.4",
+    "i18next": "20.6.0",
+    "i18next-parser": "4.4.0",
+    "react-i18next": "11.11.4"
+  }
+}

@@ -1,0 +1,27 @@
+---
+import i18n, { lang } from "../utils/i18n";
+import Trans from "../components/Trans";
+
+const title = i18n.t("Astro with i18next example");
+const desc = i18n.t("An opinionated approach to translation with Astro and i18next.");
+---
+
+<html lang="{lang}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{title}</title>
+    <description>{desc}</description>
+    <link rel="stylesheet" href="/global.css">
+  </head>
+  <body>
+    <h1>{title}</h1>
+    <p>{desc}</p>
+
+    <p>
+      <Trans>
+        This is an example of using the <code>Trans</code> component
+      </Trans>
+    </p>
+  </body>
+</html>
