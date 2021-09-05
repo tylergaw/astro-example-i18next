@@ -5,8 +5,8 @@
 An opinionated approach to translation with Astro and i18next.
 
 - [![Netlify Status](https://api.netlify.com/api/v1/badges/8dd962b7-a461-4ddd-b602-26c5f4e4d18d/deploy-status)](https://app.netlify.com/sites/astro-example-i18next/deploys) English [astro-example-i18next.netlify.app](https://astro-example-i18next.netlify.app/)
-- [![Netlify Status](https://api.netlify.com/api/v1/badges/71bdb037-6e05-4cf4-a586-ef91502df91e/deploy-status)](https://app.netlify.com/sites/astro-example-i18next-es/deploys) Spanish [astro-example-i18next-es.netlify.app/](https://astro-example-i18next-es.netlify.app/)
-- [![Netlify Status](https://api.netlify.com/api/v1/badges/c6414a8d-6b12-4577-9f8c-88d86915e5e1/deploy-status)](https://app.netlify.com/sites/astro-example-i18next-fr/deploys) French [astro-example-i18next-fr.netlify.app/](https://astro-example-i18next-fr.netlify.app/)
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/71bdb037-6e05-4cf4-a586-ef91502df91e/deploy-status)](https://app.netlify.com/sites/astro-example-i18next-es/deploys) Spanish [astro-example-i18next-es.netlify.app](https://astro-example-i18next-es.netlify.app/)
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/c6414a8d-6b12-4577-9f8c-88d86915e5e1/deploy-status)](https://app.netlify.com/sites/astro-example-i18next-fr/deploys) French [astro-example-i18next-fr.netlify.app](https://astro-example-i18next-fr.netlify.app/)
 
 ## Technology overview
 
