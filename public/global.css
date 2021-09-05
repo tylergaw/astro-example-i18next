@@ -12,3 +12,9 @@ main {
   max-width: 50em;
   width: 95%;
 }
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
