@@ -11,17 +11,19 @@ const desc = i18n.t("An opinionated approach to translation with Astro and i18ne
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{title}</title>
-    <description>{desc}</description>
+    <meta name="description" content={desc} />
     <link rel="stylesheet" href="/global.css">
   </head>
   <body>
-    <h1>{title}</h1>
-    <p>{desc}</p>
+    <main>
+      <h1>{title}</h1>
+      <p>{desc}</p>
 
-    <p>
-      <Trans>
-        This is an example of using the <code>Trans</code> component
-      </Trans>
-    </p>
+      <p>
+        <Trans i18nKey="transExample">
+          This is an example of using the <code>Trans</code> component
+        </Trans>
+      </p>
+    </main>
   </body>
 </html>
