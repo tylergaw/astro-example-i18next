@@ -1,5 +1,5 @@
 {
-  "Astro with i18next example": "Astro with i18next example",
-  "An opinionated approach to translation with Astro and i18next.": "An opinionated approach to translation with Astro and i18next.",
-  "transExample": "This is an example of using the <0>Trans</0> component"
+  "Astro with i18next example": "Astro avec i18next exemple",
+  "An opinionated approach to translation with Astro and i18next.": "Une approche avisée de la traduction avec Astro et i18next.",
+  "transExample": "Ceci est un exemple d'utilisation du composant Trans."
 }

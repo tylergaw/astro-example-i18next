@@ -1,5 +1,5 @@
 {
   "Astro with i18next example": "Astro with i18next example",
   "An opinionated approach to translation with Astro and i18next.": "An opinionated approach to translation with Astro and i18next.",
-  "This is an example of using the <0>Trans</0> component": "This is an example of using the <0>Trans</0> component"
+  "transExample": "This is an example of using the Trans component"
 }
