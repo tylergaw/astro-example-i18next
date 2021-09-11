@@ -1,6 +1,6 @@
 # Astro with i18next Example
 
-⚠️ Note: This isn't complete yet.
+⚠️ Note: This isn't complete yet. There's still known issues with the `Trans` component and I'm sure unknown issues.
 
 An opinionated approach to translation with Astro and i18next.
 
